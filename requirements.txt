@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+evaluate
+pydantic
+flask
+prefect
+kfp
